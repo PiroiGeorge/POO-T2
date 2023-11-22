@@ -13,3 +13,7 @@ Tema 2
 *Cât mai multe const
 *Utilizare STL
 
+
+
+
+#I created the hangman game, the user has a limited number of attempts to guess the word
